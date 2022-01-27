@@ -1,3 +1,6 @@
+html {
+	scroll-behavior:smooth
+}
 
 .navbar-toggle {
 	margin-right: 30px;
